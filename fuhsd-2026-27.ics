@@ -223,7 +223,7 @@ DTSTART:20260810T150000Z
 DTEND:20260810T190000Z
 TRANSP:TRANSPARENT
 SUMMARY:Homestead Orientation Program (HOP)
-DESCRIPTION:Manually Added
+DESCRIPTION:Event details at https://hhs.fuhsd.org/about-us/general-information/summer-mailer
 END:VEVENT
 BEGIN:VEVENT
 UID:973d80aabbbe3ff7a7472879801547818acddec5@fuhsd-calendar
@@ -232,6 +232,6 @@ DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
 TRANSP:TRANSPARENT
 SUMMARY:Parent Orientation Program (POP)
-DESCRIPTION:Manually Added
+DESCRIPTION:Event details at https://hhs.fuhsd.org/about-us/general-information/summer-mailer
 END:VEVENT
 END:VCALENDAR
