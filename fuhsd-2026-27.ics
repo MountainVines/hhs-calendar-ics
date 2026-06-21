@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fred Yuen//FUHSD Calendar Converter v2//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FUHSD Calendar 2026-27
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:e7751a4f3f0c84f365f5fffa11c79f5683f6e3d1@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+TRANSP:TRANSPARENT
+SUMMARY:Board Meeting
+LOCATION:FUHSD District Office (Board Room)
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:28bf11f3dd0cc3b7a53b23ebf11c3fcc07e5eb0a@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+TRANSP:TRANSPARENT
+SUMMARY:First Day of School
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:eeed416a1c2f4d4707f638a412737313d092d31b@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+TRANSP:TRANSPARENT
+SUMMARY:First Day of School
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:227820d61daa3c2eb3045d6c11d596859ba75830@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+TRANSP:TRANSPARENT
+SUMMARY:Lynbrook HS Back to School Night
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b184ce65a59dfcdd9a8db1ed8907be8a01a09f8a@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+TRANSP:TRANSPARENT
+SUMMARY:Cupertino HS Back to School Night
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7a9d476121722d140c136a17bbc3c504e93c4208@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+TRANSP:TRANSPARENT
+SUMMARY:Fremont HS Back to School Night
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:afbf9e31f3b8afea41bff1c8a257a89de0cf265f@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+TRANSP:TRANSPARENT
+SUMMARY:Homestead HS Back to School Night
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:88c0f080ba3b666755f825842f7f5032b73a889f@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+TRANSP:TRANSPARENT
+SUMMARY:Monta Vista HS Back to School Night
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d368d8c21ec2a36669b65a032088519b2847d97f@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+TRANSP:TRANSPARENT
+SUMMARY:Labor Day - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8028dec4cf4fb79adec4bee82c1592981230b4da@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+TRANSP:TRANSPARENT
+SUMMARY:Labor Day - No Classes
+DESCRIPTION:District & School Events — source: https://www.fuhsd.org/about-
+ us/general-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d7931bdd5816ab8984e6fdd4c33468a43b354eba@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Teacher Non-Duty Day - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:686f26ec17f68a9c32fe3c90257edecb0f314947@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Veterans Day - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:836cb0f8666d04a3641622577d91fcb613e7156e@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Thanksgiving Break - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ba905de1dd20460a37428b4b73539be20193fb@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Mid-Year Break - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:6a98ad50eea85e490cf1ad7928b66141df6e87d5@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+TRANSP:TRANSPARENT
+SUMMARY:School resumes for second semester
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:31712c70b70d510ee5034a7bf1b71a84ca758ed2@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+TRANSP:TRANSPARENT
+SUMMARY:Martin Luther King Day - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4a65b1989283b1596665e628a6a90828f7e140ac@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+TRANSP:TRANSPARENT
+SUMMARY:President's Week - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:3c21207c219e2d953cd507eda8bd3c65c4f15b31@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+TRANSP:TRANSPARENT
+SUMMARY:Non-Duty Day - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:c34a7804fd451e66d055dcb80c037816557ab7f4@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+TRANSP:TRANSPARENT
+SUMMARY:Spring Break - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7e6682e08bc5821d16f254667227c9aa9d28c85d@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+TRANSP:TRANSPARENT
+SUMMARY:Memorial Day - no classes
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:1fa3cdcd50abdbf29d0f48f50e3f5cb24993789b@fuhsd-calendar
+DTSTAMP:20260621T070946Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+TRANSP:TRANSPARENT
+SUMMARY:Last day of the school year
+DESCRIPTION:Academic Calendar — source: https://www.fuhsd.org/about-us/gene
+ ral-information/calendar
+END:VEVENT
+END:VCALENDAR
